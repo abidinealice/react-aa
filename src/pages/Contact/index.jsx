@@ -1,6 +1,5 @@
 import { Link, Stack } from "@mui/material";
 import { useLanguageContext } from "../../utils/Context/languageContext";
-import Form from "../../components/Form";
 import GitHubIcon from "@mui/icons-material/GitHub";
 import MailOutlineIcon from "@mui/icons-material/MailOutline";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
@@ -83,7 +82,7 @@ function Contact() {
             </Link>
           </Stack>
         </div>
-        <Form />
+        
       </ContactGrid>
     </ContactContainer>
   );
