@@ -1,0 +1,15 @@
+[
+  {
+    "id": "icons4",
+    "name": "GitHub",
+    "alt": "Icon GitHub",
+    "url": "assets/icons/icons8-github-100.png"
+  },
+
+  {
+    "id": "icons11",
+    "name": "VS Code",
+    "alt": "Icon VS Code",
+    "url": "assets/icons/icons8-vs-code-100.png"
+  }
+]

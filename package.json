@@ -1,17 +1,32 @@
 {
-  "name": "my-app",
+  "name": "frontend",
   "version": "0.1.0",
-  "private": true,
-  "homepage":"https://abidinealice.io/react-aa",
-  "dependencies": {
-    "@testing-library/jest-dom": "^5.17.0",
-    "@testing-library/react": "^13.4.0",
-    "@testing-library/user-event": "^13.5.0",
-    "gh-pages": "^6.1.1",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
+  "private": true,"homepage":"https://abidinealice.io/react-aa",
+  "dependencies": {"gh-pages": "^6.1.1",
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@fontsource/afacad": "^5.0.3",
+    "@mui/icons-material": "^5.15.15",
+    "@mui/material": "^5.15.15",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^13.0.0",
+    "@testing-library/user-event": "^13.2.1",
+    "axios": "^1.6.8",
+    "framer-motion": "^11.1.7",
+    "hamburger-react": "^2.5.0",
+    "i18next": "^23.11.2",
+    "prettier": "^3.2.5",
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-i18next": "^14.1.0",
+    "react-parallax": "^3.5.1",
+    "react-router-dom": "6.10.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "react-scroll": "^1.9.0",
+    "react-use": "^17.5.0",
+    "web-vitals": "^2.1.0",
+    "webpack-bundle-analyzer": "^4.10.2"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -19,7 +34,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy":"npm run build",
-  "deploy":"gh-pages -d build"  },
+  "deploy":"gh-pages -d build" 
+  },
   "eslintConfig": {
     "extends": [
       "react-app",

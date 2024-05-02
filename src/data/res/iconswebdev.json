@@ -1,0 +1,69 @@
+[
+  {
+    "id": "icons3",
+    "name": "CSS",
+    "alt": "Icon CSS",
+    "url": "assets/icons/icons8-css-100.png"
+  },
+
+  {
+    "id": "icons5",
+    "name": "HTML",
+    "alt": "Icon HTML",
+    "url": "assets/icons/icons8-html-100.png"
+  },
+  {
+    "id": "icons6",
+    "name": "Javascript",
+    "alt": "Icon Javascript",
+    "url": "assets/icons/icons8-js-100.png"
+  },
+  {
+    "id": "icons7",
+    "name": "PHP",
+    "alt": "Icon PHP",
+    "url": "assets/icons/icons8-php-100.png"
+  },
+  {
+    "id": "icons8",
+    "name": "Python",
+    "alt": "Icon Python",
+    "url": "assets/icons/icons8-python-100.png"
+  },
+  {
+    "id": "icons9",
+    "name": "React",
+    "alt": "Icon React",
+    "url": "assets/icons/icons8-react-100.png"
+  },
+  {
+    "id": "iconss9",
+    "name": "Responsive",
+    "alt": "Icon Responsive Design",
+    "url": "assets/icons/icons8-responsive-design-100.png"
+  },
+  {
+    "id": "icons10",
+    "name": "Sass",
+    "alt": "Icon Sass",
+    "url": "assets/icons/icons8-sass-100.png"
+  },
+  {
+    "id": "icon1",
+    "name": "Express",
+    "alt": "Icon Express",
+    "url": "assets/icons/icons8-express-js-100.png"
+  },
+  {
+    "id": "icon2",
+    "name": "Node JS",
+    "alt": "Icon Sass",
+    "url": "assets/icons/icons8-node-js-100.png"
+  },
+  {
+    "id": "icons2",
+    "name": "Material Ui",
+    "alt": "Icon Material Ui",
+    "url": "assets/icons/icon-mui.svg"
+  }
+]

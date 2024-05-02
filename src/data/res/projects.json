@@ -1,0 +1,31 @@
+[
+  {
+    "id": "alab",
+    "title": "Kasa",
+    "cover": "assets/images/booki-img500.png",
+    "description": "Site d'hébergement entre particulier",
+    "link": "https://github.com/abidinealice/kasa-app",
+    "type": "both",
+    "tags": ["REACT", "JSX", "SASS"]
+  },
+  {
+    "id": "alab1",
+    "title": "Booki",
+    "cover": "assets/images/booki-img500.png",
+    "pic": "assets/images/booki-pic.png",
+    "alt": "Booki cover",
+    "description": "Site d'hébergement pour voyage",
+    "link": "https://github.com/abidinealice/oc-booki-aa",
+    "type": "fe",
+    "tags": ["HTML", "CSS"]
+  },
+  {
+    "id": "alab2",
+    "title": "MVG",
+    "cover": "assets/images/booki-img500.png",
+    "description": "Site de notation de livre",
+    "link": "https://github.com/abidinealice/mvg-app",
+    "type": "be",
+    "tags": ["NODE", "EXPRESS"]
+  }
+]
