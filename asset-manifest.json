@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-aa/static/css/main.ac3c99c8.css",
-    "main.js": "/react-aa/static/js/main.45109c82.js",
+    "main.js": "/react-aa/static/js/main.949899d6.js",
     "static/js/453.d855a71b.chunk.js": "/react-aa/static/js/453.d855a71b.chunk.js",
     "static/media/kasa-pic.png": "/react-aa/static/media/kasa-pic.ad19da709c428381871b.png",
     "static/media/mvg-pic.png": "/react-aa/static/media/mvg-pic.1fcbb7f2c1c0632ec4ad.png",
@@ -29,11 +29,11 @@
     "index.html": "/react-aa/index.html",
     "static/media/afacad-cyrillic-ext-400-normal.woff2": "/react-aa/static/media/afacad-cyrillic-ext-400-normal.87cfe4011d32da40cf82.woff2",
     "main.ac3c99c8.css.map": "/react-aa/static/css/main.ac3c99c8.css.map",
-    "main.45109c82.js.map": "/react-aa/static/js/main.45109c82.js.map",
+    "main.949899d6.js.map": "/react-aa/static/js/main.949899d6.js.map",
     "453.d855a71b.chunk.js.map": "/react-aa/static/js/453.d855a71b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ac3c99c8.css",
-    "static/js/main.45109c82.js"
+    "static/js/main.949899d6.js"
   ]
 }
