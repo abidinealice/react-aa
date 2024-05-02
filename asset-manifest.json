@@ -1,16 +1,39 @@
 {
   "files": {
-    "main.css": "/react-aa/static/css/main.f855e6bc.css",
-    "main.js": "/react-aa/static/js/main.15b3ae2f.js",
-    "static/js/453.ed3810f9.chunk.js": "/react-aa/static/js/453.ed3810f9.chunk.js",
-    "static/media/logo.svg": "/react-aa/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/react-aa/static/css/main.ac3c99c8.css",
+    "main.js": "/react-aa/static/js/main.45109c82.js",
+    "static/js/453.d855a71b.chunk.js": "/react-aa/static/js/453.d855a71b.chunk.js",
+    "static/media/kasa-pic.png": "/react-aa/static/media/kasa-pic.ad19da709c428381871b.png",
+    "static/media/mvg-pic.png": "/react-aa/static/media/mvg-pic.1fcbb7f2c1c0632ec4ad.png",
+    "static/media/booki-pic.png": "/react-aa/static/media/booki-pic.99d0f2eb0a58e1b2c511.png",
+    "static/media/kasa-cover.png": "/react-aa/static/media/kasa-cover.9671c2b1894ee5f924a5.png",
+    "static/media/booki-cover1.png": "/react-aa/static/media/booki-cover1.08b7ea48b5307e76dbab.png",
+    "static/media/mvg-cover.png": "/react-aa/static/media/mvg-cover.ad0dd268bbffe65728c4.png",
+    "static/media/aliceabidinepic.png": "/react-aa/static/media/aliceabidinepic.fde1f0a8929879ad1d5f.png",
+    "static/media/bubbles3.png": "/react-aa/static/media/bubbles3.8597c8a04c586908a2e1.png",
+    "static/media/afacad-latin-400-normal.woff": "/react-aa/static/media/afacad-latin-400-normal.856b04cd5d0ed3519818.woff",
+    "static/media/afacad-latin-ext-400-normal.woff": "/react-aa/static/media/afacad-latin-ext-400-normal.fb6a650ab2cac370527f.woff",
+    "static/media/bubbles-svgrepo-com.png": "/react-aa/static/media/bubbles-svgrepo-com.4665ee8fb4ddb7614392.png",
+    "static/media/afacad-math-400-normal.woff": "/react-aa/static/media/afacad-math-400-normal.2eb2ba9fdfc7247cda19.woff",
+    "static/media/afacad-latin-400-normal.woff2": "/react-aa/static/media/afacad-latin-400-normal.49087e85e87efc32aab0.woff2",
+    "static/media/bgContact.svg": "/react-aa/static/media/bgContact.0f38364e87e3951a9ffd8bbce888153a.svg",
+    "static/media/afacad-latin-ext-400-normal.woff2": "/react-aa/static/media/afacad-latin-ext-400-normal.e71d73778a958b49b1f2.woff2",
+    "static/media/bubbles2.png": "/react-aa/static/media/bubbles2.088f1699f666523ed328.png",
+    "static/media/afacad-math-400-normal.woff2": "/react-aa/static/media/afacad-math-400-normal.8ab06255702d4bd142fb.woff2",
+    "static/media/afacad-symbols-400-normal.woff": "/react-aa/static/media/afacad-symbols-400-normal.95b9441c04f1f2bce28f.woff",
+    "static/media/afacad-symbols-400-normal.woff2": "/react-aa/static/media/afacad-symbols-400-normal.d88eab913bcb1aa70827.woff2",
+    "static/media/afacad-vietnamese-400-normal.woff": "/react-aa/static/media/afacad-vietnamese-400-normal.167525030fa77cf3208e.woff",
+    "static/media/afacad-vietnamese-400-normal.woff2": "/react-aa/static/media/afacad-vietnamese-400-normal.ee1ca3facd0dd3f6a334.woff2",
+    "static/media/bgHome400.svg": "/react-aa/static/media/bgHome400.d14b94c4cec556d8ef604f975923eebb.svg",
+    "static/media/afacad-cyrillic-ext-400-normal.woff": "/react-aa/static/media/afacad-cyrillic-ext-400-normal.487fd0b58c182a918687.woff",
     "index.html": "/react-aa/index.html",
-    "main.f855e6bc.css.map": "/react-aa/static/css/main.f855e6bc.css.map",
-    "main.15b3ae2f.js.map": "/react-aa/static/js/main.15b3ae2f.js.map",
-    "453.ed3810f9.chunk.js.map": "/react-aa/static/js/453.ed3810f9.chunk.js.map"
+    "static/media/afacad-cyrillic-ext-400-normal.woff2": "/react-aa/static/media/afacad-cyrillic-ext-400-normal.87cfe4011d32da40cf82.woff2",
+    "main.ac3c99c8.css.map": "/react-aa/static/css/main.ac3c99c8.css.map",
+    "main.45109c82.js.map": "/react-aa/static/js/main.45109c82.js.map",
+    "453.d855a71b.chunk.js.map": "/react-aa/static/js/453.d855a71b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.15b3ae2f.js"
+    "static/css/main.ac3c99c8.css",
+    "static/js/main.45109c82.js"
   ]
 }
