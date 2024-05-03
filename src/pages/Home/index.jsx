@@ -32,6 +32,7 @@ function Home() {
       <HomeContentContainer>
         <Header />
         <HomeGrid>
+        test
           <motion.div style={{ y: animationText }}>
             <HomeTextBox>
               <HomeTypographyTitle variant="h1">
