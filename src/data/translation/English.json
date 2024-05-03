@@ -30,7 +30,7 @@
   "galleryBookiDesc": "Booki is a website that allows users to find accommodation in the city of their choice. I was in charge of integrating the site's interface using HTML and CSS",
   "galleryBookiAltModal": "Booki's project picture",
   "galleryMVGAlt": "Mon Vieux Grimoire project cover",
-  "galleryMVGDesc": "Book rating website",
+  "galleryMVGDesc": "Mon Vieux Grimoire is a website that allows registered users to list and rate books. I was in charge of developing the back-end. The Express server is connected to a MongoDB database. CRUD operations were implemented to manage books and ratings.",
   "galleryMVGAltModal": "Mon Vieux Grimoire project picture",
   "skillsTitle": "My Skills",
   "skillsSubTitle": "Tools",
