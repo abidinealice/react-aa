@@ -21,6 +21,8 @@ function AppbarMobile() {
         sx={{
           display: "flex",
           justifyContent: "flex-end",
+          position:"relative",
+          right:"14px"
         }}
       >
         <Hamburger
@@ -38,7 +40,7 @@ function AppbarMobile() {
               display: "flex",
               flexDirection: "column",
               alignItems: "start",
-
+              paddingLeft:"25px",
               gap: "15px",
               backgroundColor: Colors.bgFooter,
               position: "absolute",

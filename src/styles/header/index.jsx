@@ -24,6 +24,7 @@ export const AppbarList = styled(List)(({ theme }) => ({
   display: "flex",
   justifyContent: "center",
   alignItems: "center",
+  
 }));
 
 export const AppbarListItem = styled(ListItem)(() => ({
