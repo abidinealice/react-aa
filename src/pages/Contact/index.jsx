@@ -34,7 +34,7 @@ function Contact() {
           >
             <DownloadIcon color="secondary" />
             <Link
-              href="/assets/file/CV_ABIDINEALICE.pdf"
+              href="/assets/file/CV_ALICE_ABIDINE.pdf"
               underline="none"
               color={Colors.primary}
               download
